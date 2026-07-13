@@ -1,0 +1,186 @@
+---
+tableRows:
+  - 1:
+    Week: 1
+    Dates: "8/24 - 8/28"
+    Topics:
+      - "Course introduction"
+      - "Text data preprocessing: Normalization, lemmatization, stemming, stop words removal... "
+      - "Text Representations: "
+      - "One hot encoding"
+      - "BoW (frequency counting)"
+      - "TF-IDF"
+    Quizzes: "Quiz 0 | Knowledge-based | out 8/24 - due 8/28"
+    Readings:
+      - "Chapter 1 Introduction to Natural Language Processing by Jacob Eisenstein"
+      - "Chapter 2.1 Introduction to Natural Language Processing by Jacob Eisenstein"
+    Homework:
+      - "HW1 out 8/28"
+
+  - 2:
+    Week: 2
+    Dates: "8/31 - 9/4"
+    Topics:
+      - "Classification Introduction"
+      - "Naive Bayes"
+      - "Classification Model Evaluation: accuracy, precision, recall, confusion matrix"
+    Quizzes: "Quiz 1 | week 1| out 8/28 - due 9/4"
+    Readings:
+      - "Chapter 2.2 Introduction to Natural Language Processing by Jacob Eisenstein"
+
+  - 3:
+    Week: 3
+    Dates: "9/7 - 9/11"
+    Topics:
+      - Labor Day Institute Holiday (9/7)
+      - "Logistic Regression"
+      - "SVM"
+      - "Perceptron"
+    Quizzes: "Quiz 2 | week 2| out 9/4 - due 9/11"
+    Readings:
+      - "Chapters 2.3, 2.4, 2.5 Introduction to Natural Language Processing by Jacob Eisenstein."
+    Homework:
+      - "**HW1 due 9/11**"
+      - "HW2 out 9/11"
+
+
+  - 4:
+    Week: 4
+    Dates: "9/14 - 9/18"
+    Topics:
+      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
+      - Glove
+    Quizzes: "Quiz 3 | week 3| out 9/11 - due 9/18"
+    Readings:
+      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
+
+  - 5:
+    Week: 5
+    Dates: "9/21 - 9/25"
+    Topics:
+      - "Neural Network (fully connected)"
+      - "Word2vec: CBoW, Skip-Gram"
+      - "Toolbox on Classification Algorithms"
+      - "Toolbox on Word2Vec"
+    Quizzes: "Quiz 4 | week 4| out 9/18 - due 9/25"
+    Readings:
+      - "[NN Playground](https://playground.tensorflow.org/)"
+      - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
+      - "[The role of a hidden layer](https://www.quora.com/What-is-the-role-of-a-hidden-layer);"
+      - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
+      - "[More detailed introduction](/other/nn-intro.pdf);"
+      - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
+
+  - 6:
+    Week: 6
+    Dates: "9/28 - 10/2"
+    Topics:
+      - "CNN"
+      - "RNN"
+      - "Toolbox on CNN For Text Classification"
+    Quizzes: "Quiz 5 | week 5| out 9/25 - due 10/2"
+    Readings:
+      - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
+      - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
+      - "[Back Propagation in CNN](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/);"
+      - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
+    Homework:
+      - "**HW2 due 10/2**"
+      - "HW3 out 10/2"
+
+  - 7:
+    Week: 7
+    Dates: "10/5 - 10/9"
+    Topics:
+      - Fall Break Institute Holiday (10/5 - 10/6)
+      - "Focus on HW3"
+    Quizzes: "Quiz 6 | week 6| out 10/2 - due 10/9"
+
+
+  - 8:
+    Week: 8
+    Dates: "10/12 - 10/16"
+    Topics:
+      - "LSTM and GRU"
+      - "LSTM + Attention (Focus on Attention mechanism)"
+
+  - 9:
+    Week: 9
+    Dates: "10/19 - 10/23"
+    Topics:
+      - "Transformer models"
+      - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
+    Quizzes: "Quiz 7 | week 8| out 10/16 - due 10/23"
+    Readings:
+      - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
+      - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
+    Homework:
+      - "**HW3 due 10/23**"
+      - "HW4 out 10/23"
+
+  - 10:
+    Week: 10
+    Dates: "10/26 - 10/30"
+    Topics:
+      - "Sequence Labelling: POS Tagging"
+      - "Sequence Labelling: NER"
+    Quizzes: "Quiz 8 | week 9| out 10/23 - due 10/30"
+
+
+  - 11:
+    Week: 11
+    Dates: "11/2 - 11/6"
+    Topics:
+      - "Unsupervised Models"
+      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
+    Quizzes: "Quiz 9 | week 10| out 10/30 - due 11/6"
+  - 12:
+    Week: 12
+    Dates: "11/9 - 11/13"
+    Topics:
+      - "Introduction to Generative AI"
+      - "Prompt Engineering Techniques"
+      - "Retrieval Augmented Generation (RAG)"
+      - "Toolbox on Exploring LLMs"
+    Quizzes: "Quiz 10 | week 11| out 11/6 - due 11/13"
+
+
+  - 13:
+    Week: 13
+    Dates: "11/16 - 11/20"
+    Topics:
+      - Focus on HW 4
+    Quizzes: "Quiz 11 | week 12| out 11/13 - due 11/20"
+    Homework:
+      - "**HW4 due 11/20**"
+      - "HW5 out 11/20"
+
+ 
+  - 14:
+    Week: 14
+    Dates: "11/23 - 11/27"
+    Topics:
+      - Student Recess Institute Holiday (11/25)
+      - Thanksgiving Break Institute Holiday (11/26 - 11/27)
+      - "Foundations of Agentic AI"
+
+ 
+  - 15:
+    Week: 15
+    Dates: "11/30 - 12/4"
+    Topics:
+      - "Architectures and Reasoning in Agentic AI"
+      - "Multi-Agent and Real World Systems"
+      - "Toolbox on Agentic AI"
+ 
+  - 16:
+    Week: 16
+    Dates: "12/7 - 12/8"
+    Topics:
+      - "Course and Homework Wrap-Up"
+      - "Focus on HW5"
+    Quizzes: "Quiz 12 | week 14&15| out 12/04 - due 12/08"
+    Homework:
+      - "**HW5 due 12/8**"
+      - " **Note:** You may submit HW5 without penalty until **12/11** "
+ 
