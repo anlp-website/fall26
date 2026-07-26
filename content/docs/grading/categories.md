@@ -11,9 +11,9 @@ We have 5 big assignments in total (subject to change). Visit this course's Canv
 
 - [10%] HW1: Week 1 to Week 2 topics
 - [15%] HW2: Week 3 topics
-- [20%] HW3: Week 4 to Week 5 topics
-- [20%] HW4: Week 6 to Week 8 topics
-- [15%] HW5: Week 9 to Week 10 topics
+- [15%] HW3: Week 4 to Week 5 topics
+- [15%] HW4: Week 6 to Week 8 topics
+- [10%] HW5: Week 9 to Week 10 topics
 
 We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 
@@ -23,9 +23,9 @@ We do not release solutions for homework. Some of our assignments will have bonu
 **Can you release homework early?** We understand that some students may prefer that homework assignments be released as soon as possible. Behind the scenes, our course staff work diligently to develop new questions, which means testing new datasets, new instructions, new auto graders, solution code, and more! Unfortunately, this means we likely cannot release assignments well in advance. We will release them as early as possible, hopefully some days before the scheduled release dates on our course schedule. When we release an assignment, we always announce it on Ed discussion.
 {{< /hint >}}
 
-## Homework Assessments (5%)
+## Homework Assessments (20%)
 
-We will have 3 homework assessments to test your understanding of the homework concepts and your code implementation. These assessments will take place through Canvas and will be proctored using Honorlock. <strong>All assessments are closed book and closed notes.</strong> 
+We will have 5 homework assessments to test your understanding of the homework concepts and your code implementation. These assessments will take place through Canvas and will be proctored using Honorlock. <strong>All assessments are closed book and closed notes.</strong> 
  
 Generally, each assessment will have a duration of 20 minutes. We will release these homework assessments in conjunction with the relevant homework assignments. They will be due at the same time as the homework assignment, however, we will provide a 2-day grace period over the weekend for the assessment.
  
