@@ -6,7 +6,7 @@ title: "Categories"
 
 # Categories
 
-## Homework Assignments (80%)
+## Homework Assignments (65%)
 We have 5 big assignments in total (subject to change). Visit this course's Canvas and Gradescope site for the assignment documents. See the course schedule for deliverable due dates.
 
 - [10%] HW1: Week 1 to Week 2 topics
